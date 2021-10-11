@@ -24,4 +24,4 @@ pip3 install -r requirements.txt
 ```python
 python3 main.py
 ```
-6)The CSV is getting dumped at **/project-folder/result.csv** with **result.csv** as the name of file.
+6) The CSV is getting dumped at **/project-folder/result.csv** with **result.csv** as the name of file.
